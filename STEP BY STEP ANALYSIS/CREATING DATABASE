@@ -1,6 +1,0 @@
--- CREATING DATABASE
-CREATE DATABASE IF NOT EXISTS coffee_sales;
-
--- USING THE DATABASE
-USE coffee_sales;
-
