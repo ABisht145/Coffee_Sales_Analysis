@@ -1,6 +1,6 @@
 # Coffee Shop Sales Analysis
 
-This project involves analyzing coffee shop sales data using MySQL. The dataset includes transaction details such as dates, times, product types, quantities sold, and prices. This README provides an overview of the project, including database creation, data import and transformation, and various sales analyses.
+This project involves analyzing coffee shop sales data using MySQL. The dataset includes transaction details such as dates, times, product types, quantities sold, and prices. This README provides an overview of the project, including database creation, data import and transformation, and various sales analysis.
 
 ## Table of Contents
 
