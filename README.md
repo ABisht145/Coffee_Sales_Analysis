@@ -4,12 +4,12 @@ This project involves analyzing coffee shop sales data using MySQL. The dataset 
 
 ## Table of Contents
 
-- [Introduction]
-- [Database Creation]
-- [Data Import and Transformation]
-- [Sales Analysis]
-  - [Total Sales]
-  - [Monthly Sales]
+- [Introduction](#introduction)
+- [Database Creation](#database-creation)
+- [Data Import and Transformation](#data-import-and-transformation)
+- [Sales Analysis](#sales-analysis)
+  - [Total Sales](#total-sales)
+  - [Monthly Sales](#monthly-sales)
   - [Month-on-Month Sales Change](#month-on-month-sales-change)
   - [Number of Orders](#number-of-orders)
   - [Quantity Sold](#quantity-sold)
